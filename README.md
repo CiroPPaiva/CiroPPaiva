@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CiroPPaiva
-- 👀 I’m interested in Data Science and Analysis
-- 🌱 I’m currently learning Deep Learning on R
-- 💞️ I’m looking to collaborate on proejcts regarding Data Science in R
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science in Python R
+- 💞️ I’m looking to collaborate on proejcts regarding Data Science in R and Python
 - 📫 How to reach me: email: ciropaiva19@gmail.com; LinkedIn: https://www.linkedin.com/in/ciro-paiva-b922b6181/
 
 <!---
